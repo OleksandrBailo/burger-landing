@@ -124,7 +124,7 @@ ul {
     margin-top: -100px;
     padding: 240px 0;
 
-    background-image: url(/images/welcome-bg.jpg);
+    background-image: url(./images/welcome-bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -312,16 +312,16 @@ ul {
 }
 
 .product_card.card-dairy {
-    background-image: url(/images/product-1.jpg);
+    background-image: url(./images/product-1.jpg);
 }
 .product_card.card-hut {
-    background-image: url(/images/product-2.jpg);
+    background-image: url(./images/product-2.jpg);
 }
 .product_card.card-king {
-    background-image: url(/images/product-3.jpg);
+    background-image: url(./images/product-3.jpg);
 }
 .product_card.card-papa {
-    background-image: url(/images/product-4.jpg);
+    background-image: url(./images/product-4.jpg);
 }
 
 /* feedback */
@@ -352,7 +352,7 @@ ul {
 }
 
 .feedback_quote::before {
-    content: url(/images/icons/quote.svg);
+    content: url(./images/icons/quote.svg);
 }
 
 .feedback_desc {
@@ -427,11 +427,11 @@ ul {
 }
 
 .footer_link-mail::before {
-    content: url(/images/icons/mail.svg);
+    content: url(./images/icons/mail.svg);
 }
 
 .footer_link-web::before {
-    content: url(/images/icons/global.svg);
+    content: url(./images/icons/global.svg);
 }
 
 .footer_nav {
